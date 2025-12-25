@@ -40,7 +40,7 @@
 
   <br/> <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilufereksi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="En Çok Kullanılan Diller" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilufereksi&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 
 </div>
 
