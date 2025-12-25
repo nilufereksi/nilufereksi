@@ -35,7 +35,7 @@
 
   ## 📊 My GitHub Stats
 
-  <a href="https://github.com/nilufereksi/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilufereksi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilufereksi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
   </a>
