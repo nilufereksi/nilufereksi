@@ -33,6 +33,10 @@
 
 ---
 
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilufereksi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 <div align="center">
 
   ## 🐍 Katkı Geçmişim (Snake Animation)
