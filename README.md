@@ -55,4 +55,23 @@
   **%15**
   <br/>
   
-  <img src="
+  <img src="https://img.shields.io/badge/Cyber_Security_(Linux)-%23FCC624?style=flat-square&logo=linux&logoColor=black" /> 
+  <img src="https://geps.dev/progress/15?dangerColor=FCC624&warningColor=FCC624&successColor=FCC624" height="20" /> 
+  **%15**
+  <br/>
+
+  <img src="https://img.shields.io/badge/MySQL_(Database)-%234479A1?style=flat-square&logo=mysql&logoColor=white" /> 
+  <img src="https://geps.dev/progress/10?dangerColor=4479A1&warningColor=4479A1&successColor=4479A1" height="20" /> 
+  **%10**
+
+</div>
+
+---
+
+<div align="center">
+
+  ## 🐍 Katkı Geçmişim
+
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+</div>
