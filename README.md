@@ -41,27 +41,18 @@
   <br/> <br/>
 
   <img src="https://img.shields.io/badge/Python_(AI_&_Data)-%233776AB?style=flat-square&logo=python&logoColor=white" /> 
-  <img src="https://geps.dev/progress/60?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB" height="20" /> 
-  **%60**
+  <img src="https://geps.dev/progress/40?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB" height="20" /> 
+  **%40**
   <br/>
 
-  <img src="https://img.shields.io/badge/C%23_&_.NET_(Web)-%23512BD4?style=flat-square&logo=dotnet&logoColor=white" /> 
-  <img src="https://geps.dev/progress/25?dangerColor=512BD4&warningColor=512BD4&successColor=512BD4" height="20" /> 
-  **%25**
+  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-%23512BD4?style=flat-square&logo=dotnet&logoColor=white" /> 
+  <img src="https://geps.dev/progress/20?dangerColor=512BD4&warningColor=512BD4&successColor=512BD4" height="20" /> 
+  **%20**
+  <br/>
+
+  <img src="https://img.shields.io/badge/Flutter_&_Dart-%2302569B?style=flat-square&logo=flutter&logoColor=white" /> 
+  <img src="https://geps.dev/progress/15?dangerColor=02569B&warningColor=02569B&successColor=02569B" height="20" /> 
+  **%15**
   <br/>
   
-  <img src="https://img.shields.io/badge/Cyber_Security_(Linux)-%23FCC624?style=flat-square&logo=linux&logoColor=black" /> 
-  <img src="https://geps.dev/progress/15?dangerColor=FCC624&warningColor=FCC624&successColor=FCC624" height="20" /> 
-  **%15**
-
-</div>
-
----
-
-<div align="center">
-
-  ## 🐍 Katkı Geçmişim
-
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-</div>
+  <img src="
