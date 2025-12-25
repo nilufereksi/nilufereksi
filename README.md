@@ -1,4 +1,3 @@
-
 <div align="center">
 
   ## 👋 Merhaba, Ben Nilüfer!
@@ -35,16 +34,21 @@
 
 <div align="center">
 
-  ## 📈 GitHub Aktivite Grafiği
+  ## 📊 GitHub Analizlerim
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilufereksi&theme=tokyonight" alt="GitHub Katkı Grafiği" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilufereksi&theme=tokyonight" alt="GitHub Aktivite Grafiği" />
+
+  <br/> <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilufereksi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="En Çok Kullanılan Diller" />
 
 </div>
+
 ---
 
 <div align="center">
 
-  ## 🐍 Katkı Geçmişim (Snake Animation)
+  ## 🐍 Katkı Geçmişim
 
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
