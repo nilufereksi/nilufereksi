@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## 👋 Merhaba, Ben Nilüfer!
+  ## 🪷 Merhaba, Ben Nilüfer!
 
   ### 🛠️ Technologies & Tools
 
