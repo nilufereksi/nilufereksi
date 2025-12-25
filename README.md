@@ -37,10 +37,9 @@
 
   ## 📈 GitHub Aktivite Grafiği
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilufereksi&theme=vue" alt="GitHub Katkı Grafiği" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilufereksi&theme=tokyonight" alt="GitHub Katkı Grafiği" />
 
 </div>
-
 ---
 
 <div align="center">
