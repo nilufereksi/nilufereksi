@@ -40,7 +40,19 @@
 
   <br/> <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilufereksi&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+  <img src="https://img.shields.io/badge/Python_(AI_&_Data)-%233776AB?style=flat-square&logo=python&logoColor=white" /> 
+  <img src="https://geps.dev/progress/60?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB" height="20" /> 
+  **%60**
+  <br/>
+
+  <img src="https://img.shields.io/badge/C%23_&_.NET_(Web)-%23512BD4?style=flat-square&logo=dotnet&logoColor=white" /> 
+  <img src="https://geps.dev/progress/25?dangerColor=512BD4&warningColor=512BD4&successColor=512BD4" height="20" /> 
+  **%25**
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Cyber_Security_(Linux)-%23FCC624?style=flat-square&logo=linux&logoColor=black" /> 
+  <img src="https://geps.dev/progress/15?dangerColor=FCC624&warningColor=FCC624&successColor=FCC624" height="20" /> 
+  **%15**
 
 </div>
 
