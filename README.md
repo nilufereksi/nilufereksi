@@ -3,7 +3,7 @@
   ## 🪷 Hello, I'm Nilüfer!   
  
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Every+fortress+has+a+crack+;Machine+Learning;Artificial+Intelligance+Research;Python+%26+AI+Development)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFC8&center=true&vCenter=true&width=500&lines=Every+fortress+has+a+crack+;Machine+Learning;Artificial+Intelligance+Research;Python+%26+AI+Development)](https://git.io/typing-svg)
 
   
  <div align="center">
