@@ -8,7 +8,7 @@
   
  <div align="center">
   
-  ### 💫 **AI Engineering Intern** 💫
+  ### 
   
 </div>
 
